@@ -1,2 +1,3 @@
 library(RPostgres)
-library(tydiverse)
+install.packages("tidyverse")
+library(tidyverse) # Often used in data science
